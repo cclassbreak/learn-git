@@ -4,6 +4,8 @@ Oil
 
 Eggs
 
+Sugar
+
 # Ingredients
 
 
@@ -12,6 +14,6 @@ Salt
 
 
 
-Sugar
+
 
 MSG
