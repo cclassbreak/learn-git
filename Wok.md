@@ -1,12 +1,12 @@
 # Wok
 
-
+Oil
 
 
 
 # Ingredients
 
-Oil
+
 
 Salt
 
