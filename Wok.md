@@ -7,7 +7,7 @@ Eggs
 Salt+++
 Sugar
 MSG
-
+Chilli🌶
 # Ingredients
 
 
