@@ -6,6 +6,8 @@ Eggs
 
 Salt
 
+a bit MSG
+
 # Ingredients
 
 
@@ -16,4 +18,3 @@ Salt
 
 Sugar
 
-MSG
